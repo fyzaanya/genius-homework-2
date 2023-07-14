@@ -60,10 +60,9 @@ a {
 /* Header */
 
 .header {
-    background-color: var(--color-brand-light);
-    position: absolute;
     background-color: var(--header-background-color);
     backdrop-filter: blur(5px);
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -89,6 +88,7 @@ a {
     flex-grow: 1;
     font-size: 18px;
     font-family: Roboto;
+    justify-content: space-between;
 }
 
 .social-icons {
@@ -96,6 +96,7 @@ a {
     display: flex;
     align-items: center;
     gap: 32px;
+    justify-content: space-between;
 }
 
 .link {
