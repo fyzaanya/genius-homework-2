@@ -106,7 +106,6 @@ a {
 .link:hover {
     color: var(--color-brand);
     text-decoration: none;
-    font-weight: 700;
 }
 
 .header-icon {
