@@ -2,5 +2,5 @@
 
 - [Homework 1](https://github.com/fyzaanya/genius-homework-1)
 - [Homework 2](https://github.com/fyzaanya/genius-homework-2)
-- Homework 3
+- [Homework 3](https://github.com/fyzaanya/genius-homework-3)
 - Homework 4
